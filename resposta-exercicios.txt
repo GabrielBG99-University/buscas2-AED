@@ -1,0 +1,7 @@
+1) Figura observada.
+
+2) A busca binária não funciona em um vetor não ordenado pois o algoritimo não foi desenvolvido para tal, ele trabalha sempre dividindo o vetor na metade considerando que uma extremidade tem um valor menor que a outra.
+
+3) Partindo da premissa que o vetor já está ordenado, eu converteria a string um inteiro usando a soma dos valores ASCII de seus caracteres e usaria-os para fazer a separação do maior e do menor para  que fosse possivel fazer a busca binária.
+
+5) Logaritimo de N na base 2
